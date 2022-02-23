@@ -3,9 +3,9 @@
 <h4 type=bold>Je to aplikácia, ktorá obsahuje kalendár s možnosťou pridávania poznámok. </h4>
 
 <h2>1.Demo</h2>
-<h5 type=regular>- Grafický návrh </h5>
-<h5>- Úvodná obrazovka (Main) </h5>
-- 
+<h4>- Grafický návrh </h4>
+<h4>- Úvodná obrazovka (Main) </h4>
+- Tlačítka..
 - 
 
 <h2>Predbežný grafický navrh</h2>
