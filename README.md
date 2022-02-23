@@ -2,9 +2,9 @@
 <h2>Popis Calendar with Notepad</h2>
 Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ si môže pridať poznámku/notifikáciu dvomi spôsobmi a to tak prvým klikne na deň na ktorý si chce nastaviť upozornenie následne vyplní názov a popis notifikácie a vyberie si deň a čas kedy mu ma prísť upozornenie.
 
-<h2>1.Demo</h2>
-<h4>- Grafický návrh </h4>
-<h4>- Úvodná obrazovka (Main) </h4>
+<h2>Prvé demo</h2>
+- Grafický návrh
+- Úvodná obrazovka (Main)
 - Tlačítka..
 
 
