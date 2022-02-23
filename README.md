@@ -3,9 +3,18 @@
 Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ si môže pridať poznámku/notifikáciu keď klikne na deň na ktorý si chce nastaviť upozornenie následne vyplní názov a popis notifikácie a vyberie si deň a čas kedy mu ma prísť upozornenie.
 
 <h2>Prvé demo</h2>
-- Grafický návrh <br>
-- Úvodná obrazovka (Main) </br>
-- Tlačidla
+1. Grafický návrh (Figma) <br>
+2. Úvodná obrazovka (Main) (Aktuálny mesiac) </br>
+
+<h2>Druhé demo</h2>
+1. Preklikávanie medzi mesiacmi<br>
+2. Funkcia že pri kliknutí na daný deň nás to presmeruje do obrazovky s možnosťami ktorá bude prázdna</br>
+
+<h2>Tretie demo</h2>
+1. Obrazovka s možnosťami<br>
+2. Funkčnosť </br>
+3. Sfunkčnenie notifikácií
+
 
 
 <h3>Ak zostane čas pridáme...:</h3>
