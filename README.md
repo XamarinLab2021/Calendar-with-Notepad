@@ -6,7 +6,11 @@ Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ 
 <h4>- Grafický návrh </h4>
 <h4>- Úvodná obrazovka (Main) </h4>
 - Tlačítka..
-- 
+
+
+Ak zostane čas pridáme...:
+- Možnosť nastavenia pripomienok napriklad 30(ľubovoľný čas) minút pred nastavením notifikácie
+- Mená ľudí ktorí maju meniny v daný deň
 
 <h2>Predbežný grafický navrh</h2>
 ![X - 1](https://user-images.githubusercontent.com/90406457/155290509-083f507b-56eb-4c45-b900-6482e7e9e886.png)
