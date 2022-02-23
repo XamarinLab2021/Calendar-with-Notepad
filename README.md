@@ -5,7 +5,7 @@ Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ 
 <h2>Prvé demo</h2>
 - Grafický návrh <br>
 - Úvodná obrazovka (Main) </br>
-- Tlačítka
+- Tlačidla
 
 
 <h3>Ak zostane čas pridáme...:</h3>
