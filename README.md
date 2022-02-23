@@ -14,5 +14,4 @@ Ak zostane čas pridáme...:
 
 <h2>Predbežný grafický navrh</h2>
 
-<img src="https://user-images.githubusercontent.com/90406457/155290534-71c0c345-0c6d-456c-a835-c34f4562959d.png" alt="Girl in a jacket"> <img src="https://user-images.githubusercontent.com/90406457/155290509-083f507b-56eb-4c45-b900-6482e7e9e886.png" alt="Girl in a jacket">
-
+<img src="https://user-images.githubusercontent.com/90406457/155341883-9efb27e2-6f69-40f3-88cc-0a551cc4ac2c.png" alt="Girl in a jacket"> <img src="https://user-images.githubusercontent.com/90406457/155341938-a95bd79e-14cf-40a0-90ac-1d49c0822637.png" alt="Girl in a jacket">
