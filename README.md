@@ -3,12 +3,12 @@
 Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ si môže pridať poznámku/notifikáciu keď klikne na deň na ktorý si chce nastaviť upozornenie následne vyplní názov a popis notifikácie a vyberie si deň a čas kedy mu ma prísť upozornenie.
 
 <h2>Prvé demo</h2>
-- Grafický návrh
-- Úvodná obrazovka (Main)
-- Tlačítka..
+- Grafický návrh <br>
+- Úvodná obrazovka (Main) </br>
+- Tlačítka
 
 
-Ak zostane čas pridáme...:
+<h3>Ak zostane čas pridáme...:</h3>
 - Možnosť nastavenia pripomienok napriklad 30(ľubovoľný čas) minút pred nastavením notifikácie
 - Mená ľudí ktorí maju meniny v daný deň
 
