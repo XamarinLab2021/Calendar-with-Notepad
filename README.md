@@ -1,9 +1,9 @@
 <h1> Calendar-with-Notepad </h1>
 <h2>Popis Calendar with Notepad</h2>
-Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ si môže pridať poznámku/notifikáciu keď klikne na deň na ktorý si chce nastaviť upozornenie následne vyplní názov a popis notifikácie a vyberie si deň a čas kedy mu ma prísť upozornenie .
+Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ si môže pridať poznámku/notifikáciu po kliknutí na daný deň na ktorý si chce nastaviť upozornenie následne vyplní názov a popis notifikácie a vyberie si deň a čas kedy mu ma prísť upozornenie .
 
 <h2>Prvé demo</h2>
-1. Grafický návrh (Figma) <br>
+1. Grafický návrh (Figma)✔ <br>
 2. Úvodná obrazovka (Main) (Aktuálny mesiac) </br>
 
 <h2>Druhé demo</h2>
