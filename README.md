@@ -4,7 +4,7 @@ Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ 
 
 <h2>Prvé demo</h2>
 1. Grafický návrh (Figma)✔ <br>
-2. Úvodná obrazovka (Main) (Aktuálny mesiac) </br>
+2. Úvodná obrazovka (Main) (Aktuálny mesiac)✔ </br>
 
 <h2>Druhé demo</h2>
 1. Funkcionalita dňa (pri kliknutí aby sme mohli niečo pridať)
