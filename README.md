@@ -9,7 +9,7 @@ Po spustení aplikácie sa zobrazí kalendar s aktuálnym mesiacom. Užívateľ 
 <h2>Druhé demo</h2>
 1. Funkcionalita dňa (pri kliknutí aby sme mohli niečo pridať) </br>
 2. Preklikávanie medzi mesiacmi (pridanie dalších mesiacov a ich funkčnosť)<br>
-3. Funkcia že pri kliknutí na daný deň nás to presunie na druhý frame s názvom New event </br>
+3. Funkcia že pri kliknutí na daný deň nás to presunie na druhý frame s názvom New event ✔ </br>
 
 <h2>Tretie demo</h2>
 1. Obrazovka s možnosťami<br>
