@@ -23,14 +23,18 @@
 
         <ListView x:Name="NotesListView"
                       ItemsSource="{Binding Notes}"
-                      BackgroundColor="#F0ECEC"
+                      BackgroundColor="#7C8483"
                       SelectionMode="None" 
-                      Footer="">
+                      Footer=""
+                      Margin="10,10,10,25"
+                      RowHeight="80">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal" >
-                            <Label  Text="{Binding Name}"      FontSize="15"  />
+                        <StackLayout Orientation="Horizontal" BackgroundColor="White" Margin="2,5,5,5" HeightRequest="70" >
+
+                            <BoxView Color="Red" WidthRequest="5"/>
+                            <Label  Text="{Binding Name}" TextColor="Black" FontSize="15" Background="White" HeightRequest="{Binding Height}" Margin="5,5,5,5" VerticalTextAlignment="Center" />
 
                         </StackLayout>
                     </ViewCell>
@@ -47,9 +51,9 @@
                     <ColumnDefinition Width="150"></ColumnDefinition>
                 </Grid.ColumnDefinitions>
 
-            <Button  Clicked="OnButtonClicked" Text="Cancel" FontSize="Medium" x:Name="cmdSubmit" HorizontalOptions="Center" VerticalOptions="End" Grid.Row="2" Grid.Column="0" WidthRequest="150" HeightRequest="70"/>
+            <Button  Clicked="OnButtonClicked" Text="Cancel" FontSize="Medium" x:Name="cmdSubmit" HorizontalOptions="Center" VerticalOptions="End" Grid.Row="0" Grid.Column="0" WidthRequest="150" HeightRequest="70"/>
 
-            <Button  Clicked="OnButtonClicked1" Text="Save" FontSize="Medium" x:Name="cmdReset" HorizontalOptions="Center" VerticalOptions="End" Grid.Row="2" Grid.Column="1" WidthRequest="150" HeightRequest="70"/>
+            <Button  Clicked="OnButtonClicked1" Text="Save" FontSize="Medium" x:Name="cmdReset" HorizontalOptions="Center" VerticalOptions="End" Grid.Row="0" Grid.Column="1" WidthRequest="150" HeightRequest="70"/>
                  </Grid>
 
             </StackLayout>
