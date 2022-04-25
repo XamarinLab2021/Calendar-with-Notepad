@@ -33,7 +33,7 @@
                     <ViewCell>
                         <StackLayout Orientation="Horizontal" BackgroundColor="White" Margin="2,5,5,5" HeightRequest="70" >
 
-                            <BoxView Color="Red" WidthRequest="5"/>
+                            <BoxView Color="{Binding RandomColor}" WidthRequest="5"/>
                             <Label  Text="{Binding Name}" TextColor="Black" FontSize="15" Background="White" HeightRequest="{Binding Height}" Margin="5,5,5,5" VerticalTextAlignment="Center" />
 
                         </StackLayout>

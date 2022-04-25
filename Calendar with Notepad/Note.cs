@@ -11,5 +11,14 @@ namespace Calendar_with_Notepad
         public int ID { get; set; }
         public string Name { get; set; }
 
+        Random random = new Random();
+        public string RandomColor
+        {
+            get
+            {
+                return String.Format("#{0:X6}", random.Next(0x1000000));
+            }
+        }
     }
+
 }

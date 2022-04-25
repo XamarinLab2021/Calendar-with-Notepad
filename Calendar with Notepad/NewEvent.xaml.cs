@@ -15,10 +15,10 @@ namespace Calendar_with_Notepad
         public NewEvent()
         {
             InitializeComponent();
-        }
-
-         async void OnButtonClicked1(object sender, EventArgs e)
+        }       
+        async void OnButtonClicked1(object sender, EventArgs e)
         {
+           
             if (!string.IsNullOrWhiteSpace(Name.Text))
             {
                 await App.Database.SaveNotesAsync(new Note
@@ -29,13 +29,17 @@ namespace Calendar_with_Notepad
 
                 Name.Text = string.Empty;
                 NotesListView.ItemsSource = await App.Database.GetNotesAsync();
-            }
+               
+            }            
         }
-
+       
         private async void OnButtonClicked(object sender, EventArgs e)
         {
             Application.Current.MainPage = new NavigationPage(new Page1());
         }
+
+
     }
-   
+
+
 }
