@@ -15,7 +15,13 @@ namespace Calendar_with_Notepad
         public NewEvent()
         {
             InitializeComponent();
-        }       
+        }
+
+        async void DeletefromDatabase(object sender, EventArgs e)
+        {
+            bool res = await DisplayAlert("Message", "Do you want to delete note?", "OK", "Cancel");
+        }
+
         async void OnButtonClicked1(object sender, EventArgs e)
         {
            
@@ -32,7 +38,10 @@ namespace Calendar_with_Notepad
                
             }            
         }
-       
+
+        
+
+
         private async void OnButtonClicked(object sender, EventArgs e)
         {
             Application.Current.MainPage = new NavigationPage(new Page1());

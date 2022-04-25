@@ -31,6 +31,9 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Delete" Clicked="DeletefromDatabase" IsDestructive="true" CommandParameter="{Binding .}"/>
+                        </ViewCell.ContextActions>
                         <StackLayout Orientation="Horizontal" BackgroundColor="White" Margin="2,5,5,5" HeightRequest="70" >
 
                             <BoxView Color="{Binding RandomColor}" WidthRequest="5"/>
